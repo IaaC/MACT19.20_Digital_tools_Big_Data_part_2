@@ -1,5 +1,8 @@
 # Digital Tools and Big Data (Second Term)
 ## [IAAC - MaCT 2019-2020](http://www.iaacblog.com/programs/courses/mact/2019-2020-mact01/)
+
+![logo](https://media.licdn.com/dms/image/C4E0BAQGDDvyorp8M6Q/company-logo_200_200/0?e=2159024400&v=beta&t=ZSxK1Y4I4htBiv9tQDuxubRkYHr3Y12g55jhvGiyYKU)
+
 This repository contains the resources used for the MaCT course on Digital tools and Big Data
 The resources allow for replication of big data techniques for data management and analysis.
 
